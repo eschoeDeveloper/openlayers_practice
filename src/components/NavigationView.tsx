@@ -1,7 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import { info } from './CustomAlert';
-import "../assets/style/NavigationView.css";
 
 import styled from 'styled-components';
 

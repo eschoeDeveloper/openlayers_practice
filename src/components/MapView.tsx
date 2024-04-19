@@ -39,6 +39,6 @@ export default function MapView() {
 
     }, []);
 
-    return <div ref={mapRef} />;
+    return <div ref={mapRef}/>;
 
 }
